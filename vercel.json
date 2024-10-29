@@ -1,2 +1,1 @@
-//vercel.json
 { "routes": [{ "src": "/[^.]+", "dest": "/", "status": 200 }] }
